@@ -4,7 +4,7 @@ import os
 import re
 import sys
 
-binarypath = "/usr/bin/megacli"
+binarypath = "/opt/MegaRAID/MegaCli/MegaCli64""
 
 # Adding a quick check to see if we're root, because on most cards I've tried this on
 # We need root access to query
